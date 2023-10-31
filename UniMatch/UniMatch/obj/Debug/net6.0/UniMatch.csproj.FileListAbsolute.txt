@@ -1,0 +1,475 @@
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.staticwebassets.runtime.json
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.exe
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.deps.json
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.runtimeconfig.json
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.pdb
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Mailjet.Client.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\bundle\UniMatch.styles.css
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\projectbundle\UniMatch.bundle.scp.css
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CopyComplete
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\refint\UniMatch.dll
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.pdb
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\UniMatch\UniMatch\obj\Debug\net6.0\ref\UniMatch.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.json
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.staticwebassets.runtime.json
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.exe
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.deps.json
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.runtimeconfig.json
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.pdb
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Mailjet.Client.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.AssemblyReference.cache
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfoInputs.cache
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfo.cs
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CoreCompileInputs.cache
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cache
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cs
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\bundle\UniMatch.styles.css
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\projectbundle\UniMatch.bundle.scp.css
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CopyComplete
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\refint\UniMatch.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.pdb
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.genruntimeconfig.cache
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\ref\UniMatch.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.Development.json
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.json
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.staticwebassets.runtime.json
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.exe
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.deps.json
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.runtimeconfig.json
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\ref\UniMatch.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.pdb
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Humanizer.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Mailjet.Client.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfoInputs.cache
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfo.cs
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CoreCompileInputs.cache
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cs
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cache
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cache
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cs
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.build.json
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.development.json
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\bundle\UniMatch.styles.css
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\projectbundle\UniMatch.bundle.scp.css
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CopyComplete
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\ref\UniMatch.dll
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.pdb
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.genruntimeconfig.cache
+D:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.AssemblyReference.cache
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.Development.json
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.json
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.staticwebassets.runtime.json
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.exe
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.deps.json
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.runtimeconfig.json
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.pdb
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Humanizer.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Mailjet.Client.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.AssemblyReference.cache
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfoInputs.cache
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfo.cs
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CoreCompileInputs.cache
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cs
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cache
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cache
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cs
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.build.json
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.development.json
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\bundle\UniMatch.styles.css
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\projectbundle\UniMatch.bundle.scp.css
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CopyComplete
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\refint\UniMatch.dll
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.pdb
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.genruntimeconfig.cache
+D:\clase\ufv\proyectos 2\práctica\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\ref\UniMatch.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.Development.json
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.json
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.staticwebassets.runtime.json
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.exe
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.deps.json
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.runtimeconfig.json
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.pdb
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Humanizer.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Mailjet.Client.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.AssemblyReference.cache
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfoInputs.cache
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfo.cs
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CoreCompileInputs.cache
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cs
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cache
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cache
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cs
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.build.json
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.development.json
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\bundle\UniMatch.styles.css
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\projectbundle\UniMatch.bundle.scp.css
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CopyComplete
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\refint\UniMatch.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.pdb
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.genruntimeconfig.cache
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\ref\UniMatch.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Owin.dll
+E:\clase\proyectos 2\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.Development.json
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\appsettings.json
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.staticwebassets.runtime.json
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.exe
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.deps.json
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.runtimeconfig.json
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\UniMatch.pdb
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Humanizer.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Mailjet.Client.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Owin.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.AssemblyReference.cache
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfoInputs.cache
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.AssemblyInfo.cs
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CoreCompileInputs.cache
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cs
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.MvcApplicationPartsAssemblyInfo.cache
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cache
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.RazorAssemblyInfo.cs
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.build.json
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.development.json
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\bundle\UniMatch.styles.css
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\scopedcss\projectbundle\UniMatch.bundle.scp.css
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.csproj.CopyComplete
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\refint\UniMatch.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.pdb
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\UniMatch.genruntimeconfig.cache
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\ref\UniMatch.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNet.SignalR.Core.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Owin.Security.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Owin.dll
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets\msbuild.UniMatch.Microsoft.AspNetCore.StaticWebAssets.props
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets\msbuild.build.UniMatch.props
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UniMatch.props
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UniMatch.props
+E:\clase\proyectos 2\Entrega\project-unimatch\UniMatch\UniMatch\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\Microsoft.Owin.dll
+C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\bin\Debug\net6.0\System.IO.Pipelines.dll

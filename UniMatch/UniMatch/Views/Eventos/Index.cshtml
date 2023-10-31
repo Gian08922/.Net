@@ -1,0 +1,98 @@
+﻿@model IEnumerable<UniMatch.Models.Evento>
+
+@{
+    ViewData["title"] = "Administración de usuarios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (TempData["Correcto"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Correcto"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="row m-2">
+    <div class="col-sm-3 offset-9">
+        <a asp-action="CrearEvento" asp-controller="Eventos" class="btn w-100" style="background-color:#003865; color:white;">Crear Evento</a>
+    </div>
+</div>
+<div class="row" style="margin-bottom:10%;">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header" style="background-color:#BFCEDF;">
+                <h3 style="color:#003865;">Eventos</h3>
+            </div>
+        </div>
+        <div class="card-body">
+            
+            @if(Model.Count() > 0)
+            {
+               
+                <div class="row">
+                    @foreach(var item in Model)
+                    {
+                       <div class="col-md-4">
+                            <div class="card" style="width:90%;">
+                                <div class="card-body" >
+                                    <div class="inf-tit card-title" style="text-align:center">
+                                        <h2>@Html.DisplayFor(m => item.Name)</h2>
+                                        <h4>@Html.DisplayFor(m => item.CreadorEvento.Nombre)</h4>
+                                    </div>
+                                    <div class="inf-event card-subtitle mb-2 text-muted" style="margin-left:15%;">
+                                        <span>@Html.DisplayFor(m => item.CreadorEvento.NombreUniversidad)</span> <br>
+                                        <span>Fecha del evento: @Html.DisplayFor(m => item.FechaEvento)</span><br>
+                                        <span>Dirección: @Html.DisplayFor(m => item.Direccion)</span><br> 
+                                        <span> Número de asistentes: @Html.DisplayFor(m => item.NumAsistentes)</span><br>
+                                        <span>Número máximo de asistentes: @Html.DisplayFor(m => item.NumMaxAsistentes)</span>
+                                    </div>
+                                    <div class="inf-descr card-text" style="margin:5%;">
+                                        <span>@Html.DisplayFor(m => item.Descripcion)</span><br>
+                                    </div>
+                                    <div class="btn-asist" >
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <form asp-action="AsistirEvento" asp-route-eventId="@item.Id">
+                                                    <button type="submit" onclick="return confirm('¿Está seguro de Asistir a este evento?')" class="btn w-90 " style="background-color:#003865; color:white;">Asistir </button>
+                                                </form>
+                                                
+                                            </div>
+                                            <div class="col-md-6">
+                                                <form asp-action="DejarAsistirEvento" asp-route-eventId="@item.Id">
+                                                    <button type="submit" onclick="return confirm('¿Está seguro de dejar de Asistir a este evento?')" class="btn w-90 btn-danger">Dejar de Asistir </button>
+                                                </form>
+                                               
+                                            </div>
+                                        </div>
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>  
+                       </div> 
+                    }
+                </div>
+
+            }
+            else
+            {
+                <div class="row">
+                    <div class="col-sm-12"> 
+                        <span> No hay ningún evento creado.</span>
+                    </div>
+                </div>
+            }
+            
+        </div>
+    </div>
+
+</div>

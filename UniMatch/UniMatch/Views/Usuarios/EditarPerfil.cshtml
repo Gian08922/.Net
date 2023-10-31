@@ -1,0 +1,111 @@
+﻿@model UniMatch.Models.AppUser
+
+@{
+    ViewData["title"] = "Editar Perfil";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header" style="background-color:#BFCEDF;">
+        <h2 class="card-title text-center"  style="color:#003865;">Editar Perfil Usuario</h2>
+    </div>
+    <div class="card-body">
+        
+        <form asp-controller="Usuarios" asp-action="EditarPerfil" method="post" enctype="multipart/form-data">
+
+            <input type="hidden" asp-for="Id" />
+            <div class="text-danger" asp-validation-summary="All"></div>
+
+            <div class="row mt-4">
+                <div class="col-sm-6">
+                    <div class="mb-3">
+                        <label asp-for="Nombre" class="col-md-12"></label>
+                        <input asp-for="Nombre" class="form-control" placeholder="Introduce tu nombre" />
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+
+                    
+                    <div class="mb-3">
+                        <label asp-for="Edad" class="col-md-12"></label>
+                        <input asp-for="Edad" class="form-control" value ="@Model.Edad" />
+                        <span asp-validation-for="Edad" class="text-danger"></span>
+                    </div>
+                    <div class="row">
+                        <label class="col-md-12">Rango de edad:</label>
+                        <div class="col-sm-6">
+                            <div class="mb-3">
+                                <label asp-for="EdadMin" class="col-md-12"></label>
+                                <input asp-for="EdadMin" class="form-control" placeholder="Introduce la edad mínima para buscar gente" value ="18"/>
+                                <span asp-validation-for="EdadMin" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="mb-3">
+                                <label asp-for="EdadMax" class="col-md-12"></label>
+                                <input asp-for="EdadMax" class="form-control" placeholder="Introduce la edad máxima para buscar gente" value ="30"/>
+                                <span asp-validation-for="EdadMax" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Interes" class="col-md-12"></label>
+                        <select asp-for="Interes" asp-items="@Html.GetEnumSelectList<Sexo>()" class="form-control">
+                            <option disabled selected>-- Seleccionar Interés Sexual --</option>
+                        </select>
+                        <span asp-validation-for="Interes" class="text-danger"></span>
+                    </div>
+                    
+                   
+                </div>
+                <div class="col-sm-6">              
+                    <div class="mb-3">
+                        <label asp-for="Email" class="col-md-12"></label>
+                        <input asp-for="Email" class="form-control" disabled />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="UniversidadBusqueda" class="col-md-12"></label>
+                        <select asp-for="UniversidadBusqueda" asp-items="@Html.GetEnumSelectList<NombreUni>()" class="form-control">
+                            <option disabled selected>-- Seleccionar Nombre Universidad --</option>
+                        </select>
+                        <span asp-validation-for="UniversidadBusqueda" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label value="Archivo"  class="col-md-12"></label>
+                        <input asp-for="Archivo" class="form-control-file" multiple="true" type="file" required="false" />
+                        <span asp-validation-for="Archivo" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Sexo" class="col-md-12"></label>
+                        <select asp-for="Sexo" asp-items="@Html.GetEnumSelectList<Sexo>()" class="form-control">
+                            <option disabled selected>-- Seleccionar tu sexo --</option>
+                        </select>
+                        <span asp-validation-for="Sexo" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="mb-3">
+                        <label asp-for="Descripcion" class="col-md-12"></label>
+                        <input asp-for="Descripcion" class="form-control" value="@Model.Descripcion" />
+                        <span asp-validation-for="Descripcion" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-sm-10 offset-2">
+                    <button type="submit" class="btn w-75 btn-lg" style="background-color:#003865; color:white;">Editar <i class="bi bi-arrow-right-circle-fill"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

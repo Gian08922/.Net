@@ -1,0 +1,115 @@
+﻿@model IEnumerable<UniMatch.Models.Evento>
+
+@{
+    ViewData["title"] = "Mis Eventos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center" style="color:#003865;">Mis Eventos</h1>
+@if (TempData["Correcto"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Correcto"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div class="row m-2">
+    <div class="col-sm-3 offset-9">
+        <a asp-action="CrearEvento" asp-controller="Eventos" class="btn w-100" style="background-color:#003865; color:white;">Crear Evento</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card border">
+            <div class="card-header" style="background-color:#BFCEDF;">
+                <h3 style="color:#003865;">Lista de Eventos</h3>
+            </div>
+        </div>
+        <div class="card-body ">
+            <div class="table-responsive ">
+                @if (Model.Count() > 0)
+                {
+                    <table class="d-lg-table table-bordered p-3" id="tablaRoles" width="90%" cellpadding="0">
+                        <thead>
+                            <tr style="background-color:#BFCEDF;">
+                                <th style="color:#003865;">@Html.DisplayNameFor(m=>m.Name)</th>
+                                <th style="color:#003865;">@Html.DisplayNameFor(m=>m.CreadorEvento.Nombre)</th>
+                                <th style="color:#003865;">@Html.DisplayNameFor(m=>m.NumAsistentes)</th>
+                                <th style="color:#003865;">@Html.DisplayNameFor(m=>m.NumMaxAsistentes)</th>
+                                <th style="color:#003865;">@Html.DisplayNameFor(m=>m.FechaEvento)</th>
+                                <th style="color:#003865;">@Html.DisplayNameFor(m=>m.Direccion)</th>
+                                <th style="color:#003865;">Acciones</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@Html.DisplayFor(m=>item.Name)</td>
+                                    <td>@Html.DisplayFor(m=>item.CreadorEvento.Nombre)</td>
+                                    <td>@Html.DisplayFor(m=>item.NumAsistentes)</td>
+                                    <td>@Html.DisplayFor(m=>item.NumMaxAsistentes)</td>
+                                    <td>@Html.DisplayFor(m=>item.FechaEvento)</td>
+                                    <td>@Html.DisplayFor(m=>item.Direccion)</td>
+                                    <td>
+                                        <div class="text-centre ">
+                                            <form asp-action="Borrar" asp-route-eventId="@item.Id">
+                                                <a class="btn btn-success" asp-controller="Eventos" asp-action="EditarEvento" asp-route-eventId="@item.Id">Editar</a>                                              
+                                                <button type="submit" onclick="return confirm('¿Está seguro de borrar este usuario?')" class="btn btn-danger ">Borrar </button>
+                                            </form>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <p>No hay registros</p>
+                }
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            //Llamar a datatable
+            $('#tablaRoles').DataTable({
+                language: {
+                    "decimal": "",
+                    "emptyTable": "No hay información",
+                    "info": "Mostrando _START_ a _END_ de _TOTAL_ Entradas",
+                    "infoEmpty": "Mostrando 0 to 0 of 0 Entradas",
+                    "infoFiltered": "(Filtrado de _MAX_ total entradas)",
+                    "infoPostFix": "",
+                    "thousands": ",",
+                    "lengthMenu": "Mostrar _MENU_ Entradas",
+                    "loadingRecords": "Cargando...",
+                    "processing": "Procesando...",
+                    "search": "Buscar:",
+                    "zeroRecords": "Sin resultados encontrados",
+                    "paginate": {
+                        "first": "Primero",
+                        "last": "Ultimo",
+                        "next": "Siguiente",
+                        "previous": "Anterior"
+                    }
+                }
+            });
+        });
+    </script>
+}
+

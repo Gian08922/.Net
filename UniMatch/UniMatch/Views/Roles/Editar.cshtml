@@ -1,0 +1,44 @@
+﻿@model Microsoft.AspNetCore.Identity.IdentityRole
+
+@{
+    ViewData["title"] = "Editar Rol";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="card">
+    <div class="card-header" style="background-color:#BFCEDF;">
+        <h2 class="card-title text-center" style="color:#003865;">Editar Rol</h2>
+    </div>
+    <div class="card-body">
+        
+        <form asp-controller="Roles" asp-action="Editar" method="post" role="form">
+            <input type="hidden" asp-for="Id"/>
+            <div class="text-danger" asp-validation-summary="All"></div>
+
+            <div class="row mt-4">
+                <div class="col-sm-6 offset-3">
+                    <div class="mb-3">
+                        <label asp-for="Name" class="col-md-12">Nombre del Rol</label>
+                        <input asp-for="Name" class="form-control" placeholder="Introduce el nombre del rol" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 offset-4  mt-4">
+                    <button type="submit" class="btn w-50 btn-lg" style="background-color:#003865; color:white;">Editar Rol <i class="bi bi-arrow-right-circle-fill"></i></button>
+                    <a asp-action="Index" class="text-dark m-3" style="width:auto; text-decoration:none">Volver atrás</a>
+                    
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

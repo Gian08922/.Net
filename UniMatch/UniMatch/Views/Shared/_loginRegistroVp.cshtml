@@ -1,0 +1,60 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<ul class="navbar-nav ml-auto">
+    @if (SignInManager.IsSignedIn(User))
+    {
+
+
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" style="font-size:large" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                @UserManager.GetUserName(User)
+                <img src="~/images/person-circle.svg" alt="icono perfil" width="50" height="50" style="margin-left:5%;">
+            </a>
+            <ul class="dropdown-menu" style="margin-left:30%;" aria-labelledby="navbarDropdown">
+
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="EditarPerfil" asp-route-id="@UserManager.GetUserId(User)">Editar Perfil</a>
+                </li>
+                @if (User.IsInRole("Administrador"))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Roles" asp-action="Index">Administración Roles</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Index">Administración Usuarios</a>
+                    </li>
+                }
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="CambiarPassword">Cambiar Contraseña</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Eventos" asp-action="MisEventos">Mis eventos</a>
+                </li>
+                <li><hr class="dropdown-divider"></li>
+                <li class="nav-item">
+                    <form id="logoutForm" method="post" class="form-inline" asp-controller="Cuentas" asp-action="LogOut">
+                        <button type="submit" class="btn nav-link text-dark">Cerrar Sesion</button>
+                    </form>
+                </li>
+            </ul>
+        </li>
+
+
+
+
+    }
+    else
+    {
+
+
+        <li class="nav-item">
+            <a class="nav-link text-white" style="font-size:large" asp-area="" asp-controller="Cuentas" asp-action="Registro">Registro</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-white" style="font-size:large" asp-area="" asp-controller="Cuentas" asp-action="Login">Inicio Sesion</a>
+        </li>
+    }
+
+</ul>

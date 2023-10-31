@@ -1,0 +1,77 @@
+﻿@model EventoVM
+
+@{
+    ViewData["title"] = "Crear Evento";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@if (TempData["Correcto"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Correcto"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div class="card">
+    <div class="card-body">
+        <h2 class="card-title text-center m-3" style="color:#003865;">Crear Evento</h2>
+        <form asp-controller="Eventos" asp-action="CrearEvento" method="post" role="form" enctype="multipart/form-data">
+
+
+            <div class="row mt-4">
+                <div class="col-sm-6">
+                    <div class="mb-3">
+                        <label asp-for="Name" class="col-md-12"></label>
+                        <input asp-for="Name" class="form-control" placeholder="Introduce el nombre del evento" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Direccion" class="col-md-12"></label>
+                        <input asp-for="Direccion" class="form-control" placeholder="Introduce la dirección del evento" />
+                        <span asp-validation-for="Direccion" class="text-danger"></span>
+                    </div>
+                </div>
+               
+                <div class="col-sm-6">
+                    <div class="mb-3">
+                        <label asp-for="NumMaxAsistentes" class="col-md-12"></label>
+                        <input asp-for="NumMaxAsistentes" class="form-control" placeholder="Introduce un número máximo de asistentes." value="2" />
+                        <span asp-validation-for="NumMaxAsistentes" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="FechaEvento" class="col-md-12"></label>
+                        <input asp-for="FechaEvento" class="form-control" placeholder="Introduce la fecha del evento" type="date" />
+                        <span asp-validation-for="FechaEvento" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="mb-3">
+                        <label asp-for="Descripcion" class="col-md-12"></label>
+                        <input asp-for="Descripcion" class="form-control" placeholder="Introduce una descripción" />
+                        <span asp-validation-for="Descripcion" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 mt-3 mb-3" style="margin-left:37%;">
+                    <button type="submit" style="background-color:#003865;" class="btn text-white w-50 btn-lg">Crear</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

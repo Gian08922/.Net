@@ -1,0 +1,68 @@
+﻿@model UniMatch.Models.Evento
+
+@{
+    ViewData["title"] = "Editar Evento";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header" style="background-color:#BFCEDF;">
+        <h2 class="card-title text-center" style="color:#003865;">Editar Evento</h2>
+    </div>
+    <div class="card-body">
+
+        <form asp-controller="Eventos" asp-action="EditarEvento" method="post" enctype="multipart/form-data">
+
+            <input type="hidden" asp-for="Id" />
+            <div class="text-danger" asp-validation-summary="All"></div>
+
+            <div class="row mt-4">
+                <div class="col-sm-6">
+                    <div class="mb-3">
+                        <label asp-for="Name" class="col-md-12"></label>
+                        <input asp-for="Name" class="form-control" placeholder="Introduce el nombre del evento" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="FechaEvento" class="col-md-12"></label>
+                        <input asp-for="FechaEvento" class="form-control" placeholder="Introduce la fecha del evento" type="date"/>
+                        <span asp-validation-for="FechaEvento" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="NumMaxAsistentes" class="col-md-12"></label>
+                        <input asp-for="NumMaxAsistentes" class="form-control" value="@Model.NumMaxAsistentes" />
+                        <span asp-validation-for="NumMaxAsistentes" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    
+                    <div class="mb-3">
+                        <label asp-for="Direccion" class="col-md-12"></label>
+                        <input asp-for="Direccion" class="form-control" placeholder="Introduce la dirección del evento" />
+                        <span asp-validation-for="Direccion" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Descripcion" class="col-md-12"></label>
+                        <input asp-for="Descripcion" class="form-control" value="@Model.Descripcion" />
+                        <span asp-validation-for="Descripcion" class="text-danger"></span>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-10 offset-2">
+                    <button type="submit" class="btn w-75 btn-lg" style="background-color:#003865; color:white;">Editar <i class="bi bi-arrow-right-circle-fill"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

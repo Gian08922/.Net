@@ -1,0 +1,140 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UniMatch
+build_property.RootNamespace = UniMatch
+build_property.ProjectDir = C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gian0\OneDrive - UFV\Documentos\UFV\3\Cuatri 2\Proyectos\UniMatch\project-unimatch\UniMatch\UniMatch
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Chat/SalaChat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxTYWxhQ2hhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/Bloqueado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xCbG9xdWVhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/ConfirmacionOlvidoPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDb25maXJtYWNpb25PbHZpZG9QYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/ConfirmacionRecuperaPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDb25maXJtYWNpb25SZWN1cGVyYVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/ConfirmarEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xDb25maXJtYXJFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/Denegado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xEZW5lZ2Fkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/OlvidoPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xPbHZpZG9QYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/RegistroAdministrador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xSZWdpc3Ryb0FkbWluaXN0cmFkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Cuentas/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VlbnRhc1xSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Eventos/CrearEvento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xDcmVhckV2ZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Eventos/EditarEvento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xFZGl0YXJFdmVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Eventos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Eventos/MisEventos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xNaXNFdmVudG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Roles/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Roles/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Shared/_loginRegistroVp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sb2dpblJlZ2lzdHJvVnAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Usuarios/CambiarPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ2FtYmlhclBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Usuarios/ConfirmacionCambioPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ29uZmlybWFjaW9uQ2FtYmlvUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Usuarios/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Usuarios/EditarPerfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdGFyUGVyZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gian0/OneDrive - UFV/Documentos/UFV/3/Cuatri 2/Proyectos/UniMatch/project-unimatch/UniMatch/UniMatch/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-25v2f0ayj8

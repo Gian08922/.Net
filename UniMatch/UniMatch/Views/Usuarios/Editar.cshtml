@@ -1,0 +1,41 @@
+﻿@model AppUser
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["title"] = "Editar Usuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header" style="background-color:#BFCEDF;">
+        <h2 class="card-title text-center" style="color:#003865;">Editar Usuario</h2>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-8 offset-2">
+                <form method="post" asp-controller="Usuarios" asp-action="Editar">
+                    <input asp-for="@Model.Id" type="hidden" />
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <div class="form-group mt-4">
+                        <label asp-for="Email"></label>
+                        <input asp-for="Email" readonly class="form-control" />
+                        <input asp-for="Email" hidden />
+                    </div>
+                    <div class="form-group mt-4">
+                        <label asp-for="IdRol"></label>
+                        <select asp-for="IdRol" asp-items="@Model.ListaRoles" class="form-control">
+                            <option disabled selected>-- Seleccionar Rol --</option>
+                        </select>
+                    </div>
+                    <div class="form-group mt-4 offset-4">
+                        <button type="submit" class="btn" style="background-color:#003865; color:white;">Editar Usuario</button>
+                        <a asp-action="Index" class="text-dark m-3" style="width:auto; text-decoration:none">Volver atrás</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

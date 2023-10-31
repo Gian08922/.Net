@@ -1,0 +1,93 @@
+﻿@model UniMatch.Models.MensajeVM
+@{
+    ViewData["title"] = "Chat";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    List<UniMatch.Models.Mensaje> mensajes = ViewBag.Mensajes;
+    UniMatch.Models.ChatUsuario chatUser = ViewBag.ChatUser;
+    UniMatch.Models.AppUser user = ViewBag.UserRegistrado;
+}
+
+<style>
+    .text-registrado{
+        
+        margin-bottom:10px;
+        
+    }
+    .text-no-registrado{
+        
+        margin-left:60%;
+        margin-bottom: 10px;
+    }
+
+    .sp-regis{
+        padding:5px;
+        background-color: #BFCEDF;
+    }
+
+    .sp-no-regis{
+        padding: 5px;
+        background-color: #85AEDC;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title titulo">@chatUser.Chat.Nombre</h3>
+        </div>
+        <div class="card-body" id="chat_s">
+            @if(mensajes.Count()>=0){
+                int i = 0;
+                @foreach(var m in mensajes){
+                if(m.Usuario.Id == user.Id){
+                <div class="text-registrado">
+                <span class="sp-regis">@m.Texto</span>
+                </div>
+                }
+                else
+                {
+                <div class="text-no-registrado">
+                <span class="sp-no-regis">@m.Texto</span>
+                </div>
+                }
+                
+
+
+                }
+            }else{
+                <span>Habéis hecho match. Mandaros un primer mensaje.</span>
+            }
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-12">
+                    <form method="post" asp-controller="Chat" asp-action="EnviarMensaje" asp-route-idChat="@chatUser.Chat.Id" role="form" enctype="multipart/form-data">
+                                        
+                        <div class="row">
+                            <div class="col-md-9">
+                                <textarea id="mensaje" asp-for="Mensaje" type="text" placeholder="Mensaje" style="width:100%;"></textarea>
+                            </div>
+                            <div class="col-md-3">
+                                <button type="submit" style="background-color:#003865;" class="btn text-white w-30 btn-lg" onclick="Enviar()">
+                                    Enviar <i class="bi bi-send"></i>
+                                </button>
+                            </div>
+                           
+                           
+                        </div>
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+   
+    }
